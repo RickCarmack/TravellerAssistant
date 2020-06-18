@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Traveller Assistant</string>
+    <string name="btn_character">Create Character</string>
+    <string name="btn_system">Create System</string>
+    <string name="btn_world">Create World</string>
+    <string name="btn_ship">Create Ship</string>
 </resources>
